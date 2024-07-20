@@ -1,4 +1,4 @@
-SpeechRecognition
+Speech Recognition System for Speech Impaired
 =================
 
 .. image:: https://img.shields.io/pypi/v/SpeechRecognition.svg
