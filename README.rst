@@ -13,10 +13,6 @@ Speech Recognition System for Speech Impaired
     :target: https://pypi.python.org/pypi/SpeechRecognition/
     :alt: Supported Python Versions
 
-.. image:: https://img.shields.io/pypi/l/SpeechRecognition.svg
-    :target: https://pypi.python.org/pypi/SpeechRecognition/
-    :alt: License
-
 Library for performing speech recognition, with support for several engines and APIs, online and offline.
 
 Speech recognition engine/API support:
